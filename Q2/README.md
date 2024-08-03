@@ -55,10 +55,21 @@ Now suppose we define two new data groups as follows:
 
 We want to test the designed AdaLine network on the new data whose variance has increased. The result is shown in the figure below. As expected, the separation for the new data also has suitable accuracy. ($accuracy = 96$%)
 
-## MAdaLine Neural Network
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/abc7f3b0-a5a9-4794-a27d-e04bdcee7d04" width="600" height="500" >
+</p>
+
+## MAdaLine Neural Network
+
+In this question, we aim to classify the given data [`MadaLine.csv`](https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/blob/main/Q2/MadaLine.csv), which consists of two classes. The scatter plot of this data is shown in the figure below.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6167f3da-4bfd-4eda-a68d-834979f5ab17" width="600" height="500" >
+</p>
+
+The MAdaLine network design has two algorithms mentioned in the [`MAdaLine_Algorithms.pd`](https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/blob/main/Q2/MAdaLine_Algorithms.pdf) file. We will use the **MR-I algorithm** for designing the network related to our problem. This algorithm is shown in the figure below.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e1dcc76-6576-44fc-b5d6-98ec6281b10a" width="600" height="900" >
 </p>
 
