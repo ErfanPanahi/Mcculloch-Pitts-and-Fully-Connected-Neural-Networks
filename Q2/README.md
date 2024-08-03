@@ -73,3 +73,19 @@ The MAdaLine network design has two algorithms mentioned in the [`MAdaLine_Algor
   <img src="https://github.com/user-attachments/assets/4e1dcc76-6576-44fc-b5d6-98ec6281b10a" width="600" height="900" >
 </p>
 
+To design the network, we consider three cases where the number of neurons in the hidden layer (the number of AdaLine algorithm lines) is 3, 5, or 10.
+
+We will use 90% of the data for training and keep the remaining 10% for testing the designed network at the end. 
+
+The figure below shows the accuracy and the decreasing cost function graph per iteration for each of the three mentioned cases of the number of neurons in the hidden layer.
+
+As observed, increasing the number of neurons in the hidden layer (or, in other words, increasing the number of AdaLines and enlarging the polygon separating the two classes) results in higher network accuracy. The cost function also exhibits a more pronounced downward trend, requiring fewer iterations to reach a stable state.
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f49f6016-2035-43c1-98f7-36685b83291a" width="200" height="50" >
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/871b8267-4ddb-44f6-b5ba-1d49648e076e" width="600" height="500" >
+</p>
