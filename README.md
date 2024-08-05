@@ -11,7 +11,7 @@ In this question, we will become familiar with the **AdaLine** and **MadaLine** 
 
 ## **Question 3.** Auto-Encoders for Classification
 
-In this question, we want to solve a classification problem using an **Auto-Encoder**. ([`MNIST`](https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/blob/main/Q3/mnist.npz) Dataset)[![Static Badge](https://img.shields.io/badge/Open-green)](https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/tree/main/Q3)
+In this question, we want to solve a classification problem using an **Auto-Encoder**. ([`MNIST`] (https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/blob/main/Q3/mnist.npz) Dataset)[![Static Badge](https://img.shields.io/badge/Open-green)](https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/tree/main/Q3)
 
 ## **Question 4.** Multi-Layer Perceptron Neural Networks
 
