@@ -11,8 +11,9 @@ In this question, we will become familiar with the **AdaLine** and **MadaLine** 
 
 ## **Question 3.** Auto-Encoders for Classification
 
-In this question, we want to solve a classification problem using an **Auto-Encoder**. [![Static Badge](https://img.shields.io/badge/Open-green)](https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/tree/main/Q3)
+In this question, we want to solve a classification problem using an **Auto-Encoder**. ([`MNIST`](https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/blob/main/Q3/mnist.npz) Dataset)[![Static Badge](https://img.shields.io/badge/Open-green)](https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/tree/main/Q3)
 
 ## **Question 4.** Multi-Layer Perceptron Neural Networks
 
-The aim of this question is to become familiar with **Multi-Layer Perceptron (MLP)** and the *TensorFlow* and *Keras* libraries. [![Static Badge](https://img.shields.io/badge/Open-red)](https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/tree/main/Q4)
+In this question, I will use a **Multi-Layer Perceptron (MLP)** network to predict prices [`CarPrice_Assignment.csv`](https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/blob/main/Q4/CarPrice_Assignment.csv) and compare the predictions with the actual prices.
+ [![Static Badge](https://img.shields.io/badge/Open-red)](https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/tree/main/Q4)
