@@ -9,12 +9,12 @@ def prediction(X, W, b):
         h[i] = np.sign(net)
     return h
 
-def train(X, T):
+def train_AdaLine(X, T):
     W = np.random.uniform(0, 0.1, 2)
     b = np.random.uniform(0, 0.1)
     alpha = np.random.uniform(0, 0.1)
     J = []
-    for i in range(np.shape(X)[1]):
+    for i in range(len(T)):
         net = np.matmul(W, X[:, i]) + b
         error = T[i] - net
         J.append(0.5 * error**2)
