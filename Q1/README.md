@@ -56,7 +56,7 @@ Figure 2 shows the McCulloch-Pitts neural network corresponding to the logical g
   <img src="https://github.com/user-attachments/assets/e556be50-9fa0-4507-ad70-e891ed06a195" width="800" height="400" >
 </p>
 
-The neural network designed using the McCulloch-Pitts network with threshold= θ = 2 is shown in Figure 3.
+The neural network designed using the McCulloch-Pitts network with $threshold= \theta = 2$ is shown in Figure 3.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2dfe264b-c0fd-4e88-99b7-f04d343303f9" width="800" height="450" >
