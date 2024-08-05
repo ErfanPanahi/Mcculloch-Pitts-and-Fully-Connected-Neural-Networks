@@ -50,7 +50,7 @@ def MAdaLine_Result(J3, J5, J10, acc3, acc5, acc10):
     plt.ylabel('J')
     plt.title('Cost Function for different value of m')
 
-def reac_csv_file():
+def read_csv_file():
     df = pd.read_csv("MAdaLine.csv")
     x = np.append(np.array(df[df.columns[0]].to_list()), float(df.columns[0]))
     y = np.append(np.array(df[df.columns[1]].to_list()), float(df.columns[1]))
